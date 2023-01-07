@@ -1,0 +1,14 @@
+a,b=4,2
+print(a>b)
+print(a<b)
+print(a>=b)
+print(a<=b)
+print(a!=b)
+print(a==b)
+x,y=5,5
+print(x>y)
+print(x<y)
+print(x>=y)
+print(x<=y)
+print(x!=y)
+print(x==y)

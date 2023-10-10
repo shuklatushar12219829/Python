@@ -6,5 +6,5 @@
 # x=input("enter the string:")
 # y=input("check str:")
 # print(y in x)
-l1=[1,2,3,4,5]
+l1=[1,2,3,4]
 print(10 in l1)

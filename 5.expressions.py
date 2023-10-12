@@ -21,4 +21,4 @@ SI=(p*r*t)/100
 amount=p+SI
 print("the intrest is",SI)
 
-print("the total amount is",amount)
+print("the total amount :",amount)

@@ -9,4 +9,4 @@ fout.close()                			#Close the output file
 fin = open('NewK22PF.txt' , 'r')
 for line in fin:            			#for each line
     print(line,end='')      			#Print line
-fin.close()                 			#Close the File
+fin.close()                 			#Close the File.

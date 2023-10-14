@@ -16,7 +16,7 @@ class Child2(Parent):
 		print("This function is in child 2.")
 
 
-# Driver's code
+# Driver's code.
 object1 = Child1()
 object2 = Child2()
 object1.func1()

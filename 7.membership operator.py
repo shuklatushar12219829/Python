@@ -7,4 +7,4 @@
 # y=input("check str:")
 # print(y in x)
 l1=[1,2,3,4]
-print(10 in l1)
+print(1 in l1)

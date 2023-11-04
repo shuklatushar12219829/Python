@@ -8,7 +8,7 @@ target_str = "虎太郎 and Jessa are friends"
 # To match all 3-letter word
 # result = re.findall(r"\b\w{3}\b", target_str)
 # print(result)
-# Output ['虎太郎', 'and', 'are']
+# Output ['虎太', 'and', 'are']
 
 # With re.A or re.ASCII
 # regex to match only 3-letter ASCII word

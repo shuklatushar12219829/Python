@@ -1,2 +1,2 @@
-a= "my name is Tushar Shukla"
+a= "my name is Tushar"
 print(a)#-no value will be printed.
